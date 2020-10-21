@@ -79,3 +79,5 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
     - Add mac verification
 - 10/11/2020
     - Add update.sh
+- 10/21/2020
+    - Change ip to ping from 1.1.1.1 to opendns
