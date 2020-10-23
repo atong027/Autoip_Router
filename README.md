@@ -53,6 +53,10 @@ https://openwrt.org/docs/techref/instructionset/mips_24kc
 
     `sh /root/stop`
     
+- Check Status
+
+    `cat /root/logs.txt`
+    
 - Update
 
     `/root/update.sh`
