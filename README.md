@@ -1,4 +1,4 @@
-# Auto Change WAN IP
+# Remove ko muna
 
 
-# Fix ko muna bug hehe
+# Dami bugs nung update haha
