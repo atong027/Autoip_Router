@@ -51,7 +51,7 @@
 
 ## TO DO
 
-- [ ] Add ibang modem
+- [ ] Add ibang router
 - [ ] Add video instruction or pictures (baka naman meron dyan gumawa 😂)
   
    
