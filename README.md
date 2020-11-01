@@ -1,4 +1,4 @@
-# Auto Change IP
+# Auto Change IP v2
 
 ## Supported Router
 
@@ -26,4 +26,32 @@
   
     `tar xzf /tmp/*.ipk -C /tmp/ && opkg update && opkg install /tmp/*.ipk`
 
-# Hindi pa tapos
+## How to run
+
+- send lang po sa ssh (putty/cmd) `autoip` para sa mga commands
+
+  `autoip start`                  - start script
+  
+  `autoip stop`                   - stop script
+  
+  `autoip details`                - set modem information **(NOTE: eto po need irun after ma install)**
+  
+  `autoip status`                 - logs
+  
+  `logread -fe autoip`            - live logs
+  
+  `/etc/init.d/autoip enable`     - enable sa startup
+  
+  `/etc/init.d/autoip disable`    - disable sa startup
+  
+## NOTE
+
+- Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data
+- Need ko copy mac address ng modem para ma add ko kayo sa list **$$$**
+
+## TO DO
+
+- [ ] Add ibang modem
+  
+   
+   
