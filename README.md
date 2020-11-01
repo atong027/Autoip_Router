@@ -8,7 +8,7 @@
 
 ## Installation
 
-- download package [here](https://github.com/atong027/Autoip_Router/files/5470874/autoip.tar.gz)
+- download package [here](https://github.com/atong027/Autoip_Router/releases)
   - extract po
   - login po sa router [webui](http://192.168.1.1/cgi-bin/luci/)
   - punta po dito sa [software](http://192.168.1.1/cgi-bin/luci/admin/system/opkg)
