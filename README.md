@@ -47,7 +47,7 @@
 ## NOTE
 
 - Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data
-- Need ko copy mac address ng modem para ma add ko kayo sa [list](m.me/ayrton.ilagan) **💲💲💲**
+- Need ko copy [mac address](https://m.me/ayrton.ilagan) ng modem para ma add ko kayo sa list **💲💲💲**
 
 ## TO DO
 
