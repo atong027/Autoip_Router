@@ -20,5 +20,9 @@
 - using putty/cmd
   - open putty/cmd
   - login sa ssh router
-  - copy paste itong command `curl -o /tmp/autoip.tar.gz -L https://github.com/atong027/Autoip_Router/files/5470874/autoip.tar.gz`
+  - copy paste itong command 
+    
+    `curl -o /tmp/autoip.tar.gz -L https://github.com/atong027/Autoip_Router/files/5470874/autoip.tar.gz`
   - eto pa `tar xzf /tmp/*.ipk -C /tmp/ && opkg update && opkg install /tmp/*.ipk`
+
+# Hindi pa tapos
