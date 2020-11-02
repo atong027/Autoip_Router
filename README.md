@@ -56,8 +56,8 @@
 
 ## BUGS
 
-- if ayaw mag stop kahit na `autoip stop` try `/etc/init.d/autoip restart`, tapos `autoip stop`
-  kung ganun pa din restart, if same pa din promlem pa remove na lang hahaha `opkg remove autoip`
+- if ayaw po mag start kahit na nilagay nyo `autoip stop` tapos `autoip start`
+  eto po fix `rm /var/run/autoip.pid` tapos start nyo na `autoip start`
   
    
    
