@@ -53,6 +53,11 @@
 
 - [ ] Add ibang router
 - [ ] Add video instruction or pictures (baka naman meron dyan gumawa 😂)
+
+## BUGS
+
+- if ayaw mag stop kahit na `autoip stop` try `/etc/init.d/autoip restart`, tapos `autoip stop`
+  kung ganun pa din restart, if same pa din promlem pa remove na lang hahaha `opkg remove autoip`
   
    
    
