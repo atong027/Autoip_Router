@@ -24,7 +24,7 @@
     
     `curl -o /tmp/autoip.tar.gz -L https://github.com/atong027/Autoip_Router/files/5470874/autoip.tar.gz`
   
-    `tar xzf /tmp/*.ipk -C /tmp/ && opkg update && opkg install /tmp/*.ipk`
+    `tar xzf /tmp/*.gz -C /tmp/ && opkg update && opkg install /tmp/*.ipk`
 
 ## How to run
 
