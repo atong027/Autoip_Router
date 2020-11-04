@@ -46,9 +46,9 @@
 
 ## BUGS
 
-- if ayaw po mag start kahit na nilagay nyo `autoip stop` tapos `autoip start`
+- ~~if ayaw po mag start kahit na nilagay nyo `autoip stop` tapos `autoip start`~~
 
-  eto po fix `rm /var/run/autoip.pid` tapos start nyo na `autoip start`
+  ~~eto po fix `rm /var/run/autoip.pid` tapos start nyo na `autoip start`~~
   
    
    
