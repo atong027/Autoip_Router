@@ -27,21 +27,19 @@
   
   `autoip status`                 - logs
   
-  `logread -fe autoip`            - live logs
-  
   `/etc/init.d/autoip enable`     - enable sa startup
   
   `/etc/init.d/autoip disable`    - disable sa startup
   
 ## NOTE
 
-- Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data
+- ~~Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data~~
 - Need ko copy [mac address](https://m.me/ayrton.ilagan) ng modem para ma add ko kayo sa list **💲💲💲**
 
 ## TO DO
 
 - [ ] Add ibang router
-- [ ] Add video instruction or pictures (baka naman meron dyan gumawa 😂)
+- [ ] Add video instruction or pictures
 
 ## BUGS
 
