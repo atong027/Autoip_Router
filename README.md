@@ -1,4 +1,4 @@
-# LAST UPDATE THIS YEAR [2020] (12/19/20)
+~~# LAST UPDATE THIS YEAR [2020] (12/19/20)~~
 
 # Auto Change IP v2
 
@@ -38,16 +38,14 @@
 - ~~Need palitan apn to globe prepaid apn if hindi nag chachange ip after mag turn off on data~~
 - Need ko copy [mac address](https://m.me/ayrton.ilagan) ng modem para ma add ko kayo sa list **💲💲💲**
 
-## TO DO
-
-- [ ] Add ibang router
-- [ ] Add video instruction or pictures
 
 ## BUGS
 
 - ~~if ayaw po mag start kahit na nilagay nyo `autoip stop` tapos `autoip start`~~
 
   ~~eto po fix `rm /var/run/autoip.pid` tapos start nyo na `autoip start`~~
+  
+- Change Band Only Works sa debranded modem
   
    
    
